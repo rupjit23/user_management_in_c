@@ -8,6 +8,7 @@ Register with a username and password
 Login by providing correct credentials
 
 Exit the program
+
 ![image alt](https://github.com/rupjit23/user_management_in_c/blob/c5382a7cdaeca4f94d41f8b10bf564183fdd8536/output.png)
 
 <h1>Features</h1>

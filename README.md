@@ -18,4 +18,6 @@ User Login: The system verifies the entered credentials.
 
 Data Validation: Prevents buffer overflow and incorrect input handling.
 
+Multiple User Login: The system allows multiple users to log in within a single execution.
+
 ![image alt](https://github.com/rupjit23/user_management_in_c/blob/c5382a7cdaeca4f94d41f8b10bf564183fdd8536/output_multiple_users.png)
